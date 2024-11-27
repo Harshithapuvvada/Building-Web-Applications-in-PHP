@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Guessing Game for Ambika Patidar</title>
+    <title>52b64893</title>
   </head>
 <body>
   <h1>Welcome to my guessing game</h1>
